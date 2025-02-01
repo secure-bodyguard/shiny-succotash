@@ -1,4 +1,4 @@
-# machine_learning
+# machine_learnings
 
 Machine learning library for node.js. You can also use this library in browser.
 
